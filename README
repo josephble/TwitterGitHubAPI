@@ -1,0 +1,16 @@
+Project: TwitterGithubAPIApp
+
+CONFIGURING TWITTER
+------
+Go to resources/application.properties
+Change values to add your Twitter details
+
+TO BUILD
+------
+mvn package
+
+TO RUN
+------
+java -jar TwitterGitHub-1.0-SNAPSHOT.jar
+localhost:8080
+
